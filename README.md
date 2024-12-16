@@ -1,6 +1,6 @@
 # Flatdango
 
-This is my live link - 
+This is my live link - https://itsgathua.github.io/codechallenge3/
 
 ## Description
 
