@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+}
+  
+aside {
+    width: 25%;
+    background: #f4f4f4;
+    padding: 10px;
+}
+  
+ul {
+    list-style: none;
+    padding: 0;
+}
+  
+li {
+    margin: 5px 0;
+    cursor: pointer;
+}
+  
+main {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+}
+  
+img {
+    width: 200px;
+    margin-bottom: 10px;
+}
+  
+button {
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+  
+button:hover {
+    background: #0056b3;
+}
+  
